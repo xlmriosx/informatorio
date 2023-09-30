@@ -1,9 +1,6 @@
-
-
-#crear una coleccion de facturas y sacar el promedio
+# crear una coleccion de facturas y sacar el promedio
 # pedir al usuario primero la cantidad de facturas
 # usar una lista para este ejercicio
-
 
 facturas = []
 
@@ -18,5 +15,3 @@ suma = sum(facturas)
 promedio = suma / numero_de_facturas
 
 print("El promedio de las facturas es: ",promedio)
-
-
