@@ -23,15 +23,3 @@
 # Los números perfectos son aquellos iguales a la suma de sus divisores: 6 se
 # puede dividir por 1, 2 y 3, y cuando sumas esos números, el resultado es 6
 
-def default(var1, var2=10, *args, **kwargs):
-    '''
-        DOCUMENTACION DEL FUNCION DEL CODIGO
-        var1
-        var2
-        args
-        kwargs
-    '''
-    print("var1:",var1)
-    print("default:",var2)
-    print("indeterminados por posicion:",args)
-    print("indeterminados por nombre:",kwargs)  
